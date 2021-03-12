@@ -7,12 +7,19 @@ The final project to allow a juicy match to be created and edited to our juicy d
 Built using Godot 3.2.3
 
 Changing the colors
+
 Add sound effects
+
 Add music
+
 Shake the screen when something good happens
+
 Make the elements fall off the screen when they are matched
+
 Add particles when an element is added
+
 Add particles when an element is removed
+
 Make the elements fall off the screen when they are matched
 
 ## References
